@@ -52,7 +52,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megelclarkchangcoco&show_icons=true&locale=en&layout=compact" alt="megelclarkchangcoco" />
   <br/>
 </div>
 

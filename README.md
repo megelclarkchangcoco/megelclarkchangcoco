@@ -14,8 +14,6 @@
 
 💬 Ask me about **Java, Python, SQL... or anything [here](https://github.com/megelclarkchangcoco)**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
 </div>
 
 <br/>
@@ -24,6 +22,6 @@
  
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
+![Top Langs](https://github.com/megelclarkchangcoco&layout=compact&theme=transparent)
 
 </div>

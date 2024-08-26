@@ -21,7 +21,5 @@
 <div align="center">
  
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megelclarkchangcoco&langs_count=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megelclarkchangcoco&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megelclarkchangcoco&hide_progress=true)
 </div>

@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Digital Forensic**
 
-💬 Ask me about **Java, Python, SQL... or anything [here](https://github.com/megelclarkchangcoco)**
+💬 Ask me about **Java, Python, JavaScropt, PHP, NoSQL, SQL... or anything [here](https://github.com/megelclarkchangcoco)**
 
 </div>
 
